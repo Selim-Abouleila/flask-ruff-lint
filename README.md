@@ -13,4 +13,4 @@ This screenshot demonstrates the `.git/hooks/pre-push` hook successfully running
 ### 2. GitHub Workflow
 This screenshot demonstrates the GitHub Actions CI pipeline running automatically on a Pull Request to the `dev` branch. It correctly catches errors and blocks the PR from merging.
 
-![GitHub Workflow Output](screenshots/5.2.%20Behavior%20Requirements.png)
+![GitHub Workflow Output](screenshots/5.2_github_workflow_failure.png)
