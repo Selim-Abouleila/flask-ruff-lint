@@ -1,5 +1,7 @@
 # DevOps & MLOps Assignment: Linting and Ruff
 
+**Work done by: HAMDI ADAM and ABOULEILA SELIM**
+
 ## 🔗 Repository Link
 [https://github.com/Selim-Abouleila/flask-ruff-lint](https://github.com/Selim-Abouleila/flask-ruff-lint)
 
